@@ -1,6 +1,6 @@
-![MasterHead](https://imgs.search.brave.com/2Edhm-wj4aqIolxrxJZe1RR-tLYObdjWWCbWwclvrn4/rs:fit:1200:640:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2M5Lzdl/LzM1L2M5N2UzNWQz/MTMyZGJhZGRhOGU5/MWY0MDI4MDZkNmM3/LmpwZw)
-<h1 align="center">Howdy! I'm Javo!</h1>
-<h3 align="center">A never-ending coding learner :)</h3>
+<img src="https://imgs.search.brave.com/2Edhm-wj4aqIolxrxJZe1RR-tLYObdjWWCbWwclvrn4/rs:fit:1200:640:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2M5Lzdl/LzM1L2M5N2UzNWQz/MTMyZGJhZGRhOGU5/MWY0MDI4MDZkNmM3/LmpwZw" height="230" width="700"/>
+<h1 align="left">Howdy! I'm Javo!</h1>
+<h3 align="left">A never-ending coding learner :)</h3>
 
 - 🌱 I’m currently learning and working with **Ruby on Rails, Ruby**
 
